@@ -1,0 +1,14 @@
+WHO'S 1ST? — temporary staging QA source proof
+
+This non-secret reference was issued by the genuine SSO-protected staging source-review workflow on 17 October 2026.
+
+whos1st-control=7571bb5b-4665-42bc-9511-8b73529a3ddf
+
+Staging listing: 1018f431-e0c8-43f2-ad38-bfee7745b2fe
+Listing label: Fictional QA Staging Source Proof
+Source: https://github.com/HuloolTek/whos1st-staging-source-proof
+Staging Supabase: vzrbidbgqruurofobito
+
+Published under the authenticated HuloolTek maintainer authority expressly authorized by the operator. The same approved single operator acts as repository maintainer and moderator for this bounded QA test; this is not independent second-person review.
+
+This only demonstrates control of the QA repository. It grants no Paid Power, payment-controller rights, official ranking or public launch approval. This file is removed after the test; all temporary source grants and QA records are then removed.
